@@ -4,7 +4,11 @@
 
 ```
 npm install
-npm run start:dev
+npm run dev #compiles the code
+```
+In another terminal window/tab:
+```
+npm run start:dev #server for serving the compiled code
 ```
 
 Go to the page `http://localhost:8080/dist/iframe-index.html`
